@@ -1,0 +1,202 @@
+[
+    {
+        "instruction": "What courses are offered?",
+        "response": "The college offers undergraduate and postgraduate programs including Computer Science Engineering, Electronics and Communication Engineering, Mechanical Engineering, Civil Engineering, and Information Technology."
+    },
+    {
+        "instruction": "What is the eligibility for admission?",
+        "response": "Candidates must have completed 12th grade with Physics, Chemistry, and Mathematics with a minimum of 60% aggregate marks."
+    },
+    {
+        "instruction": "How can I apply for admission?",
+        "response": "Applicants can apply through the official college website or participate in centralized counseling based on entrance exam scores."
+    },
+    {
+        "instruction": "Is entrance exam mandatory?",
+        "response": "Yes, admission is primarily based on entrance exams such as JEE Main or relevant state-level examinations."
+    },
+    {
+        "instruction": "What is the fee structure?",
+        "response": "The annual tuition fee ranges between INR 80,000 and INR 1,50,000 depending on the chosen course."
+    },
+    {
+        "instruction": "Does the college provide hostel facilities?",
+        "response": "Yes, separate hostel facilities are available for boys and girls with necessary amenities such as Wi-Fi, mess, and security."
+    },
+    {
+        "instruction": "Are scholarships available?",
+        "response": "Scholarships are offered based on academic merit, entrance exam scores, and financial background."
+    },
+    {
+        "instruction": "What are the placement opportunities?",
+        "response": "The college has a strong placement record with top companies recruiting students every year across various domains."
+    },
+    {
+        "instruction": "What documents are required for admission?",
+        "response": "Applicants must submit academic mark sheets, ID proof, passport-size photographs, and entrance exam scorecards."
+    },
+    {
+        "instruction": "Is there a management quota?",
+        "response": "Yes, a limited number of seats are available under management quota as per institutional guidelines."
+    },
+    {
+        "instruction": "What is the admission process?",
+        "response": "The admission process involves application submission, entrance exam qualification, counseling, and document verification."
+    },
+    {
+        "instruction": "Can I apply without entrance exam?",
+        "response": "Direct admission may be available under management quota, subject to eligibility criteria."
+    },
+    {
+        "instruction": "What is the minimum percentage required?",
+        "response": "A minimum of 60% aggregate in PCM subjects is generally required for eligibility."
+    },
+    {
+        "instruction": "Is lateral entry available?",
+        "response": "Yes, diploma holders can apply for lateral entry directly into the second year of engineering programs."
+    },
+    {
+        "instruction": "Does the college provide internships?",
+        "response": "Yes, the college supports internships through industry collaborations and training programs."
+    },
+    {
+        "instruction": "What is the duration of B.Tech courses?",
+        "response": "The duration of B.Tech programs is four years, divided into eight semesters."
+    },
+    {
+        "instruction": "Are postgraduate courses available?",
+        "response": "Yes, the college offers postgraduate programs such as M.Tech and MBA in selected specializations."
+    },
+    {
+        "instruction": "What is the mode of admission?",
+        "response": "Admissions are conducted both online and offline depending on the application process."
+    },
+    {
+        "instruction": "Is there any age limit for admission?",
+        "response": "There is generally no strict age limit, but candidates must meet academic eligibility requirements."
+    },
+    {
+        "instruction": "Are there any entrance exam cutoffs?",
+        "response": "Yes, cutoff marks vary each year based on competition and number of applicants."
+    },
+    {
+        "instruction": "What facilities are available on campus?",
+        "response": "The campus includes libraries, laboratories, sports facilities, Wi-Fi access, and modern classrooms."
+    },
+    {
+        "instruction": "Does the college have a library?",
+        "response": "Yes, the college has a well-equipped library with a wide range of books, journals, and digital resources."
+    },
+    {
+        "instruction": "Is Wi-Fi available in campus?",
+        "response": "Yes, high-speed Wi-Fi is available across the campus for students and staff."
+    },
+    {
+        "instruction": "Are extracurricular activities encouraged?",
+        "response": "Yes, the college encourages participation in cultural events, sports, and technical clubs."
+    },
+    {
+        "instruction": "Does the college have transport facilities?",
+        "response": "Yes, transportation services are available for students from various locations."
+    },
+    {
+        "instruction": "What companies visit for placements?",
+        "response": "Top companies such as TCS, Infosys, Wipro, and other reputed firms visit the campus for recruitment."
+    },
+    {
+        "instruction": "What is the average placement package?",
+        "response": "The average package ranges between INR 3 LPA to INR 6 LPA depending on the course and performance."
+    },
+    {
+        "instruction": "Is placement training provided?",
+        "response": "Yes, students receive training in aptitude, technical skills, and interview preparation."
+    },
+    {
+        "instruction": "Are there any tie-ups with industries?",
+        "response": "Yes, the college has collaborations with industries to enhance practical learning and placement opportunities."
+    },
+    {
+        "instruction": "What is the highest package offered?",
+        "response": "The highest package varies yearly and can go up to INR 10 LPA or more."
+    },
+    {
+        "instruction": "Are scholarships based on merit?",
+        "response": "Yes, merit-based scholarships are provided to students with excellent academic performance."
+    },
+    {
+        "instruction": "Is financial aid available?",
+        "response": "Yes, financial assistance is available for economically weaker students."
+    },
+    {
+        "instruction": "Can I get a scholarship through entrance exam rank?",
+        "response": "Yes, high ranks in entrance exams can qualify students for scholarships."
+    },
+    {
+        "instruction": "Are government scholarships accepted?",
+        "response": "Yes, students can avail government scholarships if eligible."
+    },
+    {
+        "instruction": "Does the college provide fee concessions?",
+        "response": "Fee concessions may be available based on eligibility and institutional policies."
+    },
+    {
+        "instruction": "How are faculty members?",
+        "response": "The college has experienced and qualified faculty members with strong academic and industry backgrounds."
+    },
+    {
+        "instruction": "Are labs well equipped?",
+        "response": "Yes, laboratories are equipped with modern tools and technology for practical learning."
+    },
+    {
+        "instruction": "Is attendance mandatory?",
+        "response": "Yes, students are required to maintain minimum attendance as per academic regulations."
+    },
+    {
+        "instruction": "Are there any clubs in college?",
+        "response": "Yes, there are technical, cultural, and sports clubs for student engagement."
+    },
+    {
+        "instruction": "Does the college organize events?",
+        "response": "Yes, regular technical fests, workshops, and cultural events are organized."
+    },
+    {
+        "instruction": "Is ragging allowed in campus?",
+        "response": "No, the college strictly follows anti-ragging policies to ensure student safety."
+    },
+    {
+        "instruction": "Is campus safe for students?",
+        "response": "Yes, the campus is secure with surveillance and strict safety measures."
+    },
+    {
+        "instruction": "Are medical facilities available?",
+        "response": "Yes, basic medical facilities and emergency support are available on campus."
+    },
+    {
+        "instruction": "Does the college provide counseling services?",
+        "response": "Yes, counseling and mentorship programs are available for students."
+    },
+    {
+        "instruction": "Is there support for higher studies?",
+        "response": "Yes, guidance is provided for higher studies and competitive exams."
+    },
+    {
+        "instruction": "What is the medium of instruction?",
+        "response": "The medium of instruction is primarily English."
+    },
+    {
+        "instruction": "Can international students apply?",
+        "response": "Yes, international students can apply subject to eligibility and guidelines."
+    },
+    {
+        "instruction": "Is there any entrance exam coaching?",
+        "response": "The college may provide guidance and resources for entrance exam preparation."
+    },
+    {
+        "instruction": "Are online classes available?",
+        "response": "Yes, online learning facilities are available when required."
+    },
+    {
+        "instruction": "What makes this college unique?",
+        "response": "The college stands out for its academic excellence, infrastructure, and strong placement support."
+    }
+]

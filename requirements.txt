@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentence-transformers
+peft
+faiss-cpu
+langchain
+langchain-community
+langchain-text-splitters
+PyPDF2
