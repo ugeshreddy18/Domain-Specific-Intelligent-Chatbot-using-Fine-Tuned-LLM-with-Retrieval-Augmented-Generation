@@ -7,6 +7,7 @@ Developed an AI-powered college admission assistant using Fine-Tuned LLM, Semant
 https://college-admission-chatbot.streamlit.app/
 
 **📌 Features**
+
 ✅ Fine-Tuned LLM using LoRA
 ✅ Semantic Search for accurate responses
 ✅ Retrieval-Augmented Generation (RAG)
@@ -19,6 +20,7 @@ https://college-admission-chatbot.streamlit.app/
 ✅ Responsive and Interactive Design
 
 **🧠 Project Overview**
+
 This chatbot is designed to assist students with college admission-related queries such as:
 Eligibility criteria
 Fee structure
@@ -34,6 +36,7 @@ Semantic similarity search
 PDF document retrieval using RAG to provide contextual and intelligent answers.
 
 **🛠️ Technologies Used**
+
 Technology	Purpose
 Python	Core Programming
 Streamlit	Web Interface
@@ -46,6 +49,7 @@ PyPDF2	PDF Processing
 Hugging Face	Model Loading
 
 **🧩 System Architecture**
+
 User Query
    ↓
 Semantic Search
@@ -66,12 +70,17 @@ Generated Response
 │   └── tokenizer_config.json
 
 **Screenshots**
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f66cdd1-9ec5-418b-9169-8ce72123d1cf" />
+
 <img width="722" height="813" alt="image" src="https://github.com/user-attachments/assets/01ec9f67-fe4c-4002-952a-c83d6f78be15" />
-Dark mode feature:
+
+**Dark mode feature:**
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca781f0c-6d96-4c84-b81c-9634173f602b" />
 
 **📄 PDF RAG Functionality**
+
 Users can upload PDF brochures/documents and ask contextual questions.
 The chatbot:
 Extracts PDF text
@@ -82,6 +91,7 @@ Retrieves relevant content
 Generates accurate answers
 
 **🎨 UI Features**
+
 Modern Chat Interface
 Dark Mode Toggle
 Suggested Questions
@@ -91,6 +101,7 @@ Animated Cards
 Responsive Layout
 
 **📈 Future Enhancements**
+
 Voice Assistant Integration
 User Authentication
 Multi-PDF Support
@@ -100,5 +111,6 @@ Analytics Dashboard
 Multilingual Support
 
 **👨‍💻 Developed By**
+
 Borra Ugesh Reddy
 ML Internship Project 🚀
