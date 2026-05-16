@@ -9,14 +9,23 @@ https://college-admission-chatbot.streamlit.app/
 **📌 Features**
 
 ✅ Fine-Tuned LLM using LoRA
+
 ✅ Semantic Search for accurate responses
+
 ✅ Retrieval-Augmented Generation (RAG)
+
 ✅ PDF Upload and Question Answering
+
 ✅ FAISS Vector Database Integration
+
 ✅ Streamlit Professional UI
+
 ✅ Dark Mode Support
+
 ✅ Real-Time Chat Interface
+
 ✅ Smart Query Matching
+
 ✅ Responsive and Interactive Design
 
 **🧠 Project Overview**
@@ -61,6 +70,7 @@ Fine-Tuned LLM
    ↓
 RAG PDF Retrieval
    ↓
+   
 Generated Response
 📂 Project Structure
 ├── app.py
@@ -95,23 +105,23 @@ The chatbot:
 
 **🎨 UI Features**
 
--Modern Chat Interface
--Dark Mode Toggle
--Suggested Questions
--Chat History
--Clear Chat Option
--Animated Cards
--Responsive Layout
+- Modern Chat Interface
+- Dark Mode Toggle
+- Suggested Questions
+- Chat History
+- Clear Chat Option
+- Animated Cards
+- Responsive Layout
 
 **📈 Future Enhancements**
 
--Voice Assistant Integration
--User Authentication
--Multi-PDF Support
--Database Chat Storage
--Advanced LLM Models
--Analytics Dashboard
--Multilingual Support
+- Voice Assistant Integration
+- User Authentication
+- Multi-PDF Support
+- Database Chat Storage
+- Advanced LLM Models
+- Analytics Dashboard
+- Multilingual Support
 
 **👨‍💻 Developed By**
 
