@@ -63,15 +63,19 @@ PDF document retrieval using RAG to provide contextual and intelligent answers.
 **🧩 System Architecture**
 
 User Query
+ 
    ↓
    
 Semantic Search
+   
    ↓
    
 Fine-Tuned LLM
+   
    ↓
    
 RAG PDF Retrieval
+   
    ↓
    
    
