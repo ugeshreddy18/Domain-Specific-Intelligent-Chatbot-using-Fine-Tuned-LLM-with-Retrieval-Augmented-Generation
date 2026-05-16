@@ -22,31 +22,34 @@ https://college-admission-chatbot.streamlit.app/
 **🧠 Project Overview**
 
 This chatbot is designed to assist students with college admission-related queries such as:
-Eligibility criteria
-Fee structure
-Scholarships
-Hostel facilities
-Placements
-Courses offered
-Contact information
-Admission process
+- Eligibility criteria
+- Fee structure
+- Scholarships
+- Hostel facilities
+- Placements
+- Courses offered
+- Contact information
+- Admission process
 - The system combines:
+
 Fine-Tuned LLM responses
 Semantic similarity search
 PDF document retrieval using RAG to provide contextual and intelligent answers.
 
 **🛠️ Technologies Used**
 
-Technology	Purpose
-Python	Core Programming
-Streamlit	Web Interface
-Transformers	LLM Integration
-PEFT / LoRA	Fine-Tuning
-Sentence Transformers	Semantic Search
-FAISS	Vector Database
-LangChain	RAG Pipeline
-PyPDF2	PDF Processing
-Hugging Face	Model Loading
+| Technology            | Purpose          |
+| --------------------- | ---------------- |
+| Python                | Core Programming |
+| Streamlit             | Web Interface    |
+| Transformers          | LLM Integration  |
+| PEFT / LoRA           | Fine-Tuning      |
+| Sentence Transformers | Semantic Search  |
+| FAISS                 | Vector Database  |
+| LangChain             | RAG Pipeline     |
+| PyPDF2                | PDF Processing   |
+| Hugging Face          | Model Loading    |
+
 
 **🧩 System Architecture**
 
@@ -83,34 +86,35 @@ Generated Response
 
 Users can upload PDF brochures/documents and ask contextual questions.
 The chatbot:
-Extracts PDF text
-Splits into chunks
-Generates embeddings
-Stores vectors in FAISS
-Retrieves relevant content
-Generates accurate answers
+1. Extracts PDF text
+2. Splits into chunks
+3. Generates embeddings
+4. Stores vectors in FAISS
+5. Retrieves relevant content
+6. Generates accurate answers
 
 **🎨 UI Features**
 
-Modern Chat Interface
-Dark Mode Toggle
-Suggested Questions
-Chat History
-Clear Chat Option
-Animated Cards
-Responsive Layout
+-Modern Chat Interface
+-Dark Mode Toggle
+-Suggested Questions
+-Chat History
+-Clear Chat Option
+-Animated Cards
+-Responsive Layout
 
 **📈 Future Enhancements**
 
-Voice Assistant Integration
-User Authentication
-Multi-PDF Support
-Database Chat Storage
-Advanced LLM Models
-Analytics Dashboard
-Multilingual Support
+-Voice Assistant Integration
+-User Authentication
+-Multi-PDF Support
+-Database Chat Storage
+-Advanced LLM Models
+-Analytics Dashboard
+-Multilingual Support
 
 **👨‍💻 Developed By**
 
 Borra Ugesh Reddy
+
 ML Internship Project 🚀
