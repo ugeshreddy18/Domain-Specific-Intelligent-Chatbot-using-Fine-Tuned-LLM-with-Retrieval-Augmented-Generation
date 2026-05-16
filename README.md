@@ -63,23 +63,35 @@ PDF document retrieval using RAG to provide contextual and intelligent answers.
 **🧩 System Architecture**
 
 User Query
+   
    ↓
 Semantic Search
+   
    ↓
 Fine-Tuned LLM
+   
    ↓
 RAG PDF Retrieval
+   
    ↓
    
 Generated Response
 📂 Project Structure
+
 ├── app.py
+
 ├── data.json
+
 ├── requirements.txt
+
 ├── fine_tuned_model/
+
 │   ├── adapter_config.json
+
 │   ├── adapter_model.safetensors
+
 │   ├── tokenizer.json
+
 │   └── tokenizer_config.json
 
 **Screenshots**
